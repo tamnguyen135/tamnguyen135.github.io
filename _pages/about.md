@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 Hello, my name is Tam and I am a third-year math PhD student at The University of British Columbia (UBC). My supervisors are Prof [Sujatha Ramdorai](https://personal.math.ubc.ca/~sujatha/) and Prof [Antonio Lei](https://antoniolei.com/) (UOttawa). I completed my MSc under Prof [Dragos Ghioca](https://personal.math.ubc.ca/~dghioca/).
+
+My website is currently under development, but please feel free to check out my publications [here](https://tamnguyen135.github.io/publications/).

@@ -1,5 +1,5 @@
 ---
-title: "Congruent elliptic curves over certain p-adic Lie extensions"
+title: "Congruent elliptic curves over some p-adic Lie extensions"
 collection: publications
 category: preprints
 permalink: /publication/
